@@ -1,0 +1,40 @@
+label {
+    color: #10074a;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+input {
+    border-radius: 7px;
+    padding: 5px;
+    width: 230px;
+}
+
+.form {
+
+    padding-top: 25px;
+    padding-bottom: 20px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.btns {
+    padding: 7px 20px;
+    font-size: 20px;
+    border-radius: 7px;
+}
+
+.btn-log {
+    padding: 7px 20px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: aliceblue;
+    background-color: #10074a;
+    transition: .3s;
+}
+
+.btn-log:hover {
+    background-color: aliceblue;
+    color: #10074a;
+}

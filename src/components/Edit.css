@@ -1,0 +1,27 @@
+label {
+    color: #10074a;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+input {
+    border-radius: 7px;
+    padding: 5px;
+    width: 230px;
+}
+
+.form-1 {
+    border: 2px solid aliceblue;
+    background-color: aliceblue;
+    width: 250px;
+    padding: 30px;
+    border-radius: 7px;
+}
+
+.btnes {
+    padding: 7px 15px;
+    border-radius: 7px;
+    font-size: 20px;
+    background-color: #10074a;
+    color: aliceblue;
+}
